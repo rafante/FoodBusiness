@@ -1,0 +1,47 @@
+idéia de jogo
+
+Criação de restaurante
+Principais features:
+-possibilidade de criação infinita de pratos com todos os ingredientes e as formas de cozinhar, cortar, modelar possíveis afetando o prato criado com
+atributos como: doce, salgado, amargo, azedo, apimentado, consistência, sofisticado, atraente, suculento etc
+-cuidar do marketing disputando contra restaurantes de outros players online
+-contratos de fornecimento de ingredientes e mudança no nível de produção dos mesmos conforme clima, situação do local, etc
+-possibilidade de expandir com filiais e até mesmo tornar-se uma franquia ou usar uma franquia de início para alavancar vendas
+-cobrança de impostos, pagamento de funcionários, funcionários que pedem demissão, funcionários e clientes problema, clientes que não querem pagar,
+categorias de clientes diferentes com comportamentos bem definidos, concorrencia contra a máquina, etc
+-premiações e conquistas a nível, local, estadual, nacional e mundial que influenciem nas vendas.
+-possibilidade de escolher um local para construir o restaurante, locais evoluirão e modificarão conforme o tempo passa e a concorrência aumenta
+-aumento da concorrência afeta preços. Será necessário conferir o restaurante dos concorrentes para ver se seus preços estão dentro de uma margem boa
+-possibilidade de formar sociedade com outros players compartilhando recursos, fornecendo mão-de-obra, dinheiro, contratos, etc
+-quests para obter ingredientes
+-possibilidade de visitar restaurantes de outros players para adquirir conhecimento sobre, ingredientes, receitas, preços praticados, verificar a movimentação do
+ restaurante da concorrencia
+
+Alguns detalhes:
+-cada ingrediente terá uma animação vinculada dele sendo cortado, fatiado, moído, triturado, cozido, assado, frito, etc
+-será possível adicionar os ingredientes na forma que se desejar, inclusive com fôrmas para deixá-lo mais interessante
+-pratos serão feitos em camadas e as animações dos ingredientes renderizadas conforme as camadas de maneira a ficarem independentes por exemplo, se eu estou
+fazendo uma receita de pizza e tenho uma camada com queijo, uma com tomate e uma com presunto, cada uma será renderizada, crua, assada, cozida, frita conforme
+a ordem em que aconteceu, neste caso, ao assar, a pizza renderizaria uma camada de queijo derretido, uma de tomate assado e uma de presunto tostado por exemplo
+-vivacidade de cores
+-multiplicidade de maneiras de trabalhar cada ingrediente
+-maneiras especiais para ingredientes especiais
+-ingredientes, delicadeza do prado, maneiras de preparar, tempo gasto, etc, resultarão o custo do prato podendo seu preço ser ajustado conforme a necessidade.
+-possibilidade de visitar restaurantes de outros players e consumir neles para tentar obter idéias, receitas ou até mesmo ingredientes especiais e secretos 
+
+
+Criação de pratos:
+-A criação seguirá alguns passos:
+	1) escolher ingreditentes e quantidades dos mesmos
+	2) escolher utensílios utilizados
+	3) escolher ações que podem envolver um ou mais ingredientes e obter um retorno dessas ações, exemplo: 
+		a) lavar - batata + tomate - retorno: batata limpa
+		b) cozinhar - batata - fogo alto - 30 minutos - retorno: batata cozida
+		c) refogar - batata + tomate - fogo médio - 10 minutos - retorno: refogado de batata com tomate
+	4) preparar o prato, montando os ingredientes de maneira harmônica (estudar possibilidade da montagem do prato influenciar nos seus atributos usando coisas como:
+		a) simetria entre ingredientes por exemplo: tomate picado pos(3,3) tomate picado pos(3,6) batata picada pos(0,4) batata picada pos(4,0)
+	5)nomear o prato
+	6)colocar o preço sobre o custo (percentual ou absoluto)
+-Em seguida o jogador terá que comprar os ingredientes se ele ainda não tiver, os utensílios e treinar os funcionários
+Maneiras de ganhar dinheiro com ele:
+

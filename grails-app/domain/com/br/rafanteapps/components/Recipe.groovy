@@ -11,4 +11,8 @@ class Recipe {
 
     static constraints = {
     }
+
+    static mapping = {
+        portions cascade: 'all-delete-orphan'
+    }
 }

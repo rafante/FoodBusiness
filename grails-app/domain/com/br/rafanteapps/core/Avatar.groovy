@@ -1,6 +1,6 @@
 package com.br.rafanteapps.core
 
-class Character {
+class Avatar {
 
     static constraints = {
     }
